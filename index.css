@@ -1,0 +1,24 @@
+:root {
+    --white: #ffffff;
+    --cool-gray: #7f7f7f;
+    --light-teal: #6fbfb2;
+    --dark-gray: #4c4c4c;
+    --primary-font: 'Open Sans', sans-serif;
+    --secondary-font: 'Poppins', sans-serif;
+    --tertiary-font: 'Montserrat', sans-serif;
+    --fs-h1: 3rem;
+    --fs-h2: 2.2rem;
+    --fs-h3: 1.5rem;
+    --fs-body: 1rem;
+  }
+  
+  @media (min-width: 800px){
+    :root{
+      --fs-h1: 4.5rem;
+      --fs-h2: 4rem;
+      --fs-h3: 1.5rem;
+      --fs-body: 1.125rem;
+    }
+  }
+  
+  /* General Styles*/
