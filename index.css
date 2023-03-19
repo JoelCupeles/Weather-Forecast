@@ -1,8 +1,12 @@
 :root {
-    --white: #ffffff;
+    --white:#ffffff;
     --cool-gray: #7f7f7f;
     --light-teal: #6fbfb2;
     --dark-gray: #4c4c4c;
+    --font-color: #303952;
+    --cool-gray: #7f7f7f;
+    --light-pink: #f8a5c2;
+    --dark-purple: #574b90;
     --primary-font: 'Open Sans', sans-serif;
     --secondary-font: 'Poppins', sans-serif;
     --tertiary-font: 'Montserrat', sans-serif;
@@ -22,3 +26,4 @@
   }
   
   /* General Styles*/
+
