@@ -1,6 +1,6 @@
-## Weather Dashboard
+# Weather Dashboard
 
-# Description
+## Description
 The Weather Dashboard is a web application that allows users to search for the weather in a specific city. The application displays the current weather conditions and a 5-day forecast for the selected city.
 
 ## Installation
@@ -20,5 +20,5 @@ This project is licensed under the MIT License.
 ## Link
 You can view the live version of this project at https://joelcupeles.github.io/Weather-Forecast/
 
-![]()
+![](Assets/joelcupeles.github.io_Weather-Forecast_ (1).png)
 
