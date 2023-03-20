@@ -7,7 +7,7 @@ The Weather Dashboard is a web application that allows users to search for the w
 This project does not require any installation.
 
 ## Credits
-This project was created by Joel Cupeles as part of a homework assignmen.
+This project was created by Joel Cupeles as part of a homework assignment.
 ## License
 This project is licensed under the MIT License.
 
@@ -20,5 +20,5 @@ This project is licensed under the MIT License.
 ## Link
 You can view the live version of this project at https://joelcupeles.github.io/Weather-Forecast/
 
-![](Assets/joelcupeles.github.io_Weather-Forecast_ (1).png)
+![](https://github.com/JoelCupeles/Weather-Forecast/blob/b32daa0a1c4f898bf58dbe74dd7ebaa5d0f9693a/Assets/joelcupeles.github.io_Weather-Forecast_%20(1).png)
 
