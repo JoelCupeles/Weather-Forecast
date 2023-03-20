@@ -13,7 +13,7 @@ This project is licensed under the MIT License.
 
 ## Features
 1. User-friendly interface: the application has a simple and intuitive design.
-2. Current weather conditions: the application displays the current temperature, humidity, wind speed, and UV index for the selected city.
+2. Current weather conditions: the application displays the current temperature, humidity, and wind speed for the selected city.
 3. 5-day forecast: the application displays the forecasted temperature and weather conditions for the next 5 days.
 4. Search history: the application stores the user's search history and allows them to quickly access their previous searches.
 
